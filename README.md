@@ -1,7 +1,6 @@
-md
 •👋 Hi, I’m @Dhabiri
 • 👀 I’m a web development enthusiast and also interested in Software engineering
-• I’m motivated and driven by code, open to learning and collaborations
+• ✨ I’m motivated and driven by code, open to learning and collaborations
 • I have some repositories with little projects on them. I seek to improve myself in this field.
 
 You can catch me on Twitter:
