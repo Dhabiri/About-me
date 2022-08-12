@@ -1,4 +1,4 @@
-•👋 Hi, I’m @Dhabiri
+•👋 Hi, I’m Dhabiri
 
 • 👀 I’m a web development enthusiast and also interested in Software engineering
 
